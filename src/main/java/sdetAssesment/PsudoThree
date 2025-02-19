@@ -1,0 +1,1 @@
+Program3: Anagram Grouping Write a program to group a list of strings into anagrams. An anagram is a word formed by rearranging the letters of another. Example: Input: {"eat", "tea", "tan", "ate", "nat", "bat"} Output: {{"eat", "tea", "ate"}, {"tan", "nat"}, {"bat"}}
